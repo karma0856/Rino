@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: #de34eb;
+    font-size: 20px;
+
+}
+
+header{
+    background-color: #eb34e8;
+    padding: 20px;
+}
+header  a {
+    background-color:#34ebcc ;
+    padding: 5px;
+    color: white;
+    text-decoration: nope;
+    margin: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+  
+}
+
+main {
+    margin: 30px;
+}
+main h1 {
+    color: #3a34eb;
+    font-size: 50px;
+}
+footer p {
+    border: 10px solid red;
+  
+}
+footer p{
+    background-color:#34ebd2 ;
+}
+nav a {
+    padding: 2px;
+    margin: 2px;
+    border: 5px solid #cc34eb;
+    background-color: #34ebe8;
+}
+main img {
+    background-color: chartreuse;
+}
+.red {
+    font-size: 20px;
+}
+
+h2 {
+color: purple;
+text-decoration: none;
+font-size: 20px;
+}
+   
+
+
